@@ -1,4 +1,4 @@
-# Ejercicio 2
+# Ejercicio 1
 
 from math import sqrt, ceil
 
